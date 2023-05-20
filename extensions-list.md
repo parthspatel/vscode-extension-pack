@@ -1,6 +1,6 @@
 
 
-# Base
+## Base
 PKief.material-icon-theme
 Catppuccin.catppuccin-vsc
 VisualStudioExptTeam.vscodeintellicode
@@ -23,19 +23,19 @@ yzhang.markdown-all-in-one
 redhat.vscode-xml
 bungcip.better-toml
 
-# Repo tools
+## Repo tools
 
-# Live Share
+## Live Share
 hbenl.vscode-test-explorer-liveshare
 
 
-# Cloud
+## Cloud
 ms-azuretools.vscode-docker
 ms-kubernetes-tools.vscode-kubernetes-tools
 mindaro.mindaro
 HashiCorp.terraform
 
-# Python
+## Python
 VisualStudioExptTeam.vscodeintellicode
 ms-python.python
 ms-python.vscode-pylance
@@ -48,7 +48,7 @@ bungcip.better-toml
 ms-python.black-formatter
 LittleFoxTeam.vscode-python-test-adapter
 
-# Java
+## Java
 VisualStudioExptTeam.vscodeintellicode
 redhat.java
 vscjava.vscode-java-debug
@@ -58,7 +58,7 @@ vscjava.vscode-maven
 vscjava.vscode-gradle
 vscjava.vscode-java-pack
 
-# Scala
+## Scala
 VisualStudioExptTeam.vscodeintellicode
 scala-lang.scala
 scalameta.metals
