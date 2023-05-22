@@ -1,6 +1,7 @@
 ```bash
+sudo npm install -g yo generator-code vsce
 yo code
-
+vsce package
 ```
 
 ## Base
